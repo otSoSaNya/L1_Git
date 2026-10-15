@@ -1,0 +1,5 @@
+favourite:
+- Minecraft
+
+hated:
+- dota 2 
